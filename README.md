@@ -3,7 +3,7 @@ A simple utility to switch between multiple proxy profiles (one for work at, off
 
 # Installation
 * Just build the jar file and place in a directory of your choice
-* Now write a couple of powershell scripts (example here) that will do the actual job of changing the proxy settings (in the registry)
+* Now write a couple of powershell scripts (example below) that will do the actual job of changing the proxy settings (in the registry)
 * The powershell scripts shall have an extension of .ps1 or .PS1 and should be in the same directory as that of the proxyswitcher jar file
 * Once the application is launched (with a java8+ jvm) it will appear in the system tray and please refer to the below picture for usage
 
