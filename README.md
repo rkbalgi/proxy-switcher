@@ -7,7 +7,7 @@ A simple utility to switch between multiple proxy profiles (one for work at, off
 * The powershell scripts shall have an extension of .ps1 or .PS1 and should be in the same directory as that of the proxyswitcher jar file
 * Once the application is launched (with a java8+ jvm) it will appear in the system tray and please refer to the below picture for usage
 
-[[https://github.com/rkbalgi/github.io/blob/master/ps_img.png]]
+![](https://github.com/rkbalgi/github.io/blob/master/ps_img.png)
 
 #Powershell Scripts
 Below is an example of the powershell script (acme.ps1)
