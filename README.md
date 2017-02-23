@@ -1,5 +1,5 @@
 # proxy-switcher
-A simple utility to switch between multiple proxy profiles (one for work at, office, mobile etc)
+A simple utility to switch between multiple proxy profiles (one for work, at office, mobile etc)
 
 # Installation
 * Just build the jar file and place in a directory of your choice
